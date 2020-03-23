@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kya-khana-banaogey/precache-manifest.6cc75c20fdf43cf64ade35a7f0cfdae5.js"
+  "/kya-khana-banaogey/precache-manifest.c9228a66caffc4c8dc4479e3d250f927.js"
 );
 
 self.addEventListener('message', (event) => {
