@@ -5,8 +5,8 @@ import { Card, Button } from 'react-bootstrap';
 const RecipieHomeCard = (props) => {
     const { name = '', message = 'message' } = props;
 
-    return <Card border='primary' style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="favicon.ico" />
+    return <Card >
+        <Card.Img variant="top" src="favicon.ico" className='p-5'/>
         <Card.Body>
             <Card.Title>Recipie Title</Card.Title>
             <Card.Text>
