@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/kya-khana-banaogey/static/js/main.8caf1830.chunk.js",
-    "main.js.map": "/kya-khana-banaogey/static/js/main.8caf1830.chunk.js.map",
+    "main.js": "/kya-khana-banaogey/static/js/main.46ca7491.chunk.js",
+    "main.js.map": "/kya-khana-banaogey/static/js/main.46ca7491.chunk.js.map",
     "runtime~main.js": "/kya-khana-banaogey/static/js/runtime~main.913e4146.js",
     "runtime~main.js.map": "/kya-khana-banaogey/static/js/runtime~main.913e4146.js.map",
     "static/css/2.86aa6515.chunk.css": "/kya-khana-banaogey/static/css/2.86aa6515.chunk.css",
-    "static/js/2.ca419036.chunk.js": "/kya-khana-banaogey/static/js/2.ca419036.chunk.js",
-    "static/js/2.ca419036.chunk.js.map": "/kya-khana-banaogey/static/js/2.ca419036.chunk.js.map",
+    "static/js/2.f4e4abb0.chunk.js": "/kya-khana-banaogey/static/js/2.f4e4abb0.chunk.js",
+    "static/js/2.f4e4abb0.chunk.js.map": "/kya-khana-banaogey/static/js/2.f4e4abb0.chunk.js.map",
     "index.html": "/kya-khana-banaogey/index.html",
-    "precache-manifest.9fc6a3e95a5928a2ed0b1736e1ffeafe.js": "/kya-khana-banaogey/precache-manifest.9fc6a3e95a5928a2ed0b1736e1ffeafe.js",
+    "precache-manifest.4cebb6686cafbfd247e0dd3c7a0985f9.js": "/kya-khana-banaogey/precache-manifest.4cebb6686cafbfd247e0dd3c7a0985f9.js",
     "service-worker.js": "/kya-khana-banaogey/service-worker.js",
     "static/css/2.86aa6515.chunk.css.map": "/kya-khana-banaogey/static/css/2.86aa6515.chunk.css.map"
   }
