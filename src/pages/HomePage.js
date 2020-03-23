@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardDeck, Container, Row, Col } from 'react-bootstrap';
+import { Card, Container, Row, Col } from 'react-bootstrap';
 import RecipieHomeCard from '../components/RecipieHomeCard';
 // import ErrorDiv from '../components/kitchen-sink/ErrorDiv';
 
@@ -11,25 +11,25 @@ export default function HomePage() {
       <Card.Body>
         <Card.Title></Card.Title>
         <Card.Text>
-        <h1 >Kya Khana Banaogey?</h1>
+          <h1 >Kya Khana Banaogey?</h1>
         </Card.Text>
-      
+
         <Container className='mt-5'>
           <Row>
             <Col xs={3} >
-              {/* <CardDeck> */}
+
               <RecipieHomeCard />
             </Col>
             <Col xs={3} >
-              {/* <CardDeck> */}
+
               <RecipieHomeCard />
             </Col>
             <Col xs={3} >
-              {/* <CardDeck> */}
+
               <RecipieHomeCard />
             </Col>
             <Col xs={3} >
-              {/* <CardDeck> */}
+
               <RecipieHomeCard />
             </Col>
           </Row>
