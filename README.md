@@ -1,2 +1,2 @@
-# khana-khaogey
-Kya khana khaogey Chcha?
+# khana-banaogey
+Kya khana banaogey Chcha?
