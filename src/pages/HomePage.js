@@ -1,13 +1,13 @@
 import React from 'react'
 import { Card, Container, Row, Col } from 'react-bootstrap';
-import RecipieHomeCard from '../components/RecipieHomeCard';
+import RecipeHomeCard from '../components/RecipeHomeCard';
 // import ErrorDiv from '../components/kitchen-sink/ErrorDiv';
 
 
 export default function HomePage() {
   return (
     <Card className="text-center">
-      <Card.Header>Welcome to the World of Recipies!</Card.Header>
+      <Card.Header>Welcome to the World of Recipes!</Card.Header>
       <Card.Body>
         <Card.Title></Card.Title>
         <Card.Text>
@@ -18,19 +18,19 @@ export default function HomePage() {
           <Row>
             <Col xs={3} >
 
-              <RecipieHomeCard />
+              <RecipeHomeCard />
             </Col>
             <Col xs={3} >
 
-              <RecipieHomeCard />
+              <RecipeHomeCard />
             </Col>
             <Col xs={3} >
 
-              <RecipieHomeCard />
+              <RecipeHomeCard />
             </Col>
             <Col xs={3} >
 
-              <RecipieHomeCard />
+              <RecipeHomeCard />
             </Col>
           </Row>
         </Container>
