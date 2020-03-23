@@ -1,7 +1,7 @@
 {
-  "name": "router-example",
+  "name": "kya-khana-banaogey",
   "version": "0.1.0",
-  "description": "Use React Router DOM to create a Single Page Application",
+  "description": "Kya khana banaogey Chcha? Yahan par dekhiye.",
   "private": false,
   "scripts": {
     "start": "react-scripts start",
@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://amogh2019.github.io/router-example",
+  "homepage": "http://amogh2019.github.io/kya-khana-banaogey",
   "eslintConfig": {
     "extends": "react-app"
   },

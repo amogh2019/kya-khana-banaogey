@@ -2,7 +2,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import SnakeGrid from './SnakeGrid';
-import { mod, getRandomPos, getOppositeDirectionValue } from '../utils/helper';
+import { mod, getRandomPos, getOppositeDirectionValue } from '../../utils/helper';
 import Swipe from 'react-easy-swipe';
 
 const initialState = {
