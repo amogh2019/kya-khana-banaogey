@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43cef4749330eab4286993dc7b5303f8",
+    "revision": "b0d6094cc7a25fd6fb2062e909bd9289",
     "url": "/kya-khana-banaogey/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kya-khana-banaogey/static/js/2.ca419036.chunk.js"
   },
   {
-    "revision": "b9edfe6f6259ffa0c3cb",
-    "url": "/kya-khana-banaogey/static/js/main.df958c6c.chunk.js"
+    "revision": "f28525119bdaad6794fc",
+    "url": "/kya-khana-banaogey/static/js/main.8caf1830.chunk.js"
   },
   {
     "revision": "1e09fbf35ccba5bacff0",
